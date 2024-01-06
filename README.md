@@ -51,6 +51,6 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 - HackerSec (Cursos de diversos na área): https://hackersec.com/formacao-em-ciberseguranca/
 - WB Educa (Osint, Forense, Fraudes, investigação e Direito Digital): https://wbeduca.com.br/pt/cursos
 - Acadi TI (Cursos de diversos na área):  https://acaditi.com.br/
-- BlackStorm Security (Progrramação, Análise de Malware, Resposta a Incidente, Engenharia Reversa): http://www.blackstormsecurity.com/bs/homebs.html
+- BlackStorm Security (Programação, Análise de Malware, Resposta a Incidente, Engenharia Reversa): http://www.blackstormsecurity.com/bs/homebs.html
 - Cysource (Pentest e SOC Analyst): https://www.cysource-academy.com.br/
 - Adint/Adsumus (Cyber Intelligence, Deep Web | Dark Web | Darknet e Industrial Cybersecurity): https://adsumus.eadplataforma.app/courses
