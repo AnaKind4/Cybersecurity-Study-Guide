@@ -55,6 +55,10 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 - Acadi-TI - Academia Inovadora de TI (Pagos e Gratuítos): https://acaditi.com.br/
 - ADINT - CYBER INTELLIGENCE INSTITUTE (Pagos - Cyber Intelligence, Deep Web | Dark Web | Darknet e Industrial Cybersecurity): https://lnkd.in/dBwzaCYA
 - Blackstorm Security (Pagos - Programação, Análise de Malware, Resposta a Incidente, Engenharia Reversa): https://lnkd.in/d_ANSmfw
+- Faculdade VINCIT (Pagos - Tem alguns Cursos livres além das graduações e pós graduações): https://www.faculdadevincit.edu.br/cursos-que-indicamos
+- IBSEC - Instituto Brasileiro de Cibersegurança (Cursos Pagos - Possui as Certificações gratuitas): https://ibsec.com.br/
+
+
 
 #### Plataformas de Treinamentos na área (Em Inglês):
 
