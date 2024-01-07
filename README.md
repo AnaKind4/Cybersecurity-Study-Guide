@@ -35,7 +35,8 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 | Cisco Networking Academy | Gratuitos | Segurança em Redes | https://www.netacad.com/pt-br/courses/all-courses | 
 | GoHacking | Pagos | Ofensiva, Defensiva e Forense | https://gohacking.com.br/cursos | 
 | Academia de Forense Digital | Gratuitos e Pagos | Ofensiva, Defensiva e Forense | https://academiadeforensedigital.com.br/treinamentos/ | 
-| HackerSec | Pagos | Conteúdos Introdutórios e Hacking | https://hackersec.com/academy/ | 
+| HackerSec | Pagos | Conteúdos Introdutórios e Hacking | https://hackersec.com/academy/ |
+| Mente Binária | Gratuitos | Programação, Engenharia Reversa e Análise de Malware | https://www.mentebinaria.com.br/treinamentos/ | 
 | Desec Security | Gratuitos e Pagos |  Ofensiva | https://desecsecurity.com/ | 
 | Solyd Offensive Security | Gratuitos e Pagos | Ofensiva e Programação | https://solyd.com.br/ | 
 | Sec4Us | Pagos | Ofensiva e Forense | https://sec4us.com.br/ | 
@@ -61,8 +62,8 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 
 <img src="https://media.licdn.com/dms/image/D4D22AQGurEHQXnxBDg/feedshare-shrink_800/0/1704577154931?e=1707350400&v=beta&t=LiM8keh9tBKhNeUN-nUyqBDa6-lOUU1cUu1fM7IBxZA">
 
-### Cursos Gratuitos:
-
+### Alguns Cursos Gratuitos:
+ 
 - Academy Attackiq - https://www.academy.attackiq.com/
 - Cybrary - https://www.cybrary.it/
 - DESEC Security - Introdução ao Pentest: https://desecsecurity.com/curso/introducao-pentest
