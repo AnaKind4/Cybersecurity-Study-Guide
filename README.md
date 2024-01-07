@@ -42,7 +42,7 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 | CrowSec EdTech | Pagos | Ofensiva | https://www.crowsec.com.br/ | 
 | Acadi-TI | Gratuitos e Pagos | Defensiva, Ofensiva e preparatórios para certificações | https://acaditi.com.br/ | 
 | Blackstorm Security | Pagos | Programação, Análise de Malware, Resposta a Incidente, Engenharia Reversa | http://www.blackstormsecurity.com/bs/treinamento.html | 
-| ADINT - CYBER INTELLIGENCE INSTITUTE | Pagos | Cyber Intelligence, Deep Web | Dark Web | Darknet e Industrial Cybersecurity | https://adsumus.eadplataforma.app/courses | 
+| ADINT - CYBER INTELLIGENCE INSTITUTE | Pagos | Cyber Intelligence, Deep Web, Dark Web, Darknet e Industrial Cybersecurity | https://adsumus.eadplataforma.app/courses | 
 | WB Educação | Pagos | Osint, Forense, Fraudes, investigação e Direito Digital | https://wbeduca.com.br/pt/cursos | 
 | Faculdade VINCIT | Pagos | Cursos livres além das graduações e pós graduações | https://www.faculdadevincit.edu.br/cursos-que-indicamos | 
 | IBSEC | Pagos - Possui Certificações gratuitas | Defensiva e Ofensiva | https://ibsec.com.br/ | 
