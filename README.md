@@ -52,6 +52,8 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 
 | Plataforma | Pago/Gratuito | Assuntos | Link de Acesso |
 | --- | ------ | ------- | ----------- | 
+| AttackIq | Gratuitos | Diversos | https://www.academy.attackiq.com/ | 
+| Cybrary | Gratuitos e Pagos | Diversos | https://www.cybrary.it/ | 
 | Fortinet Training Institute | Gratuitos e Pagos | Ofensiva e Forense | https://training.fortinet.com/ | 
 | CySource Academy | Pagos | Pentest e SOC Analyst | https://www.cysource-academy.com.br/ | 
 | Security Blue Team | Gratuitos e Pagos | Ofensiva e Forense | https://www.securityblue.team/training | 
