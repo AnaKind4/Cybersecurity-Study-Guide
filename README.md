@@ -2,13 +2,10 @@
 
 A área de segurança cibernética é um campo que se concentra na proteção de sistemas, redes e dispositivos eletrônicos contra ataques, danos ou acesso não autorizado. 
 <p>
-Importante o profissional ter uma base solida de conhecimentos em Sistemas Operacionais, Algoritmos e Lógica de Programação, Rede e Arquitetura de Computadores e Infraestrutura. 
+Importante o profissional ter uma base solida de conhecimentos em Sistemas Operacionais, Redes, Arquitetura de Computadores, Infraestrutura, Algoritmos e Lógica de Programação. 
 <p/>
   
 ### Cursos e Certificações (Gratuitos e Introdutórios):
-
-- Programa de certificação NSE da Fortinet: 
-    - A certificação Fortinet Certified Fundamentals (FCF) em Segurança Cibernética é gratuita e valida que você domina o conhecimento técnico e as habilidades necessárias para qualquer função de nível básico em segurança cibernética. Esta oferecerá cursos que cobrem o cenário de ameaças atual e os fundamentos da Cybersegurança: https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
 
 - Skills for All da Cisco tem vários cursos com conteúdos de qualidade e bem explicados para estudos tanto de redes, defesa cibernética e Ethical Hacking. Acessem em: https://skillsforall.com/catalog?category=course&subject+areas=cybersecurity%2Cnetworking
 
@@ -20,10 +17,15 @@ Ordem que eu recomendo realizar:
       4 - Endpoint Security
       5 - Ethical Hacker ou Cyber Threat Management
 
+- Programa de certificação NSE da Fortinet: 
+    - A certificação Fortinet Certified Fundamentals (FCF) em Segurança Cibernética é gratuita e valida que você domina o conhecimento técnico e as habilidades necessárias para qualquer função de nível básico em segurança cibernética. Esta oferecerá cursos que cobrem o cenário de ameaças atual e os fundamentos da Cybersegurança: https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
 
 - Certificações Gratuitas da IBSEC: https://certs.ibsec.com.br/
+  
 - Tutorial abrange os fundamentos da segurança cibernética, os tipos comuns de ataques cibernéticos e as medidas de segurança que você pode tomar para proteger seus dispositivos e dados: https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-for-beginners.
+  
 - Cursos de Segurança Cibernética para Iniciantes na coursera: https://www.coursera.org/collections/cybersecurity-for-beginners
+  
 - Curso de Cibersegurança Oferecido pela FIAP que aborda introdução ao tema, criptografia, vulnerabilidades do sistema, os riscos à segurança da informação das empresas, entre outros: https://eucapacito.com.br/curso-ec/cybersecurity
  
 #### Plataformas de cursos e labs práticos, gratuitos (Com opções pagas) para aprender e praticar:
@@ -71,7 +73,7 @@ Ordem que eu recomendo realizar:
 
 <img src="https://media.licdn.com/dms/image/D4D22AQGurEHQXnxBDg/feedshare-shrink_800/0/1704577154931?e=1707350400&v=beta&t=LiM8keh9tBKhNeUN-nUyqBDa6-lOUU1cUu1fM7IBxZA">
 
-### Alguns Cursos Gratuitos:
+### Outros Cursos qu Recomendo, Todos Gratuitos:
  
 - Academy Attackiq - https://www.academy.attackiq.com/
 - Cybrary - https://www.cybrary.it/
