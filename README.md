@@ -9,7 +9,18 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 
 - Programa de certificação NSE da Fortinet: 
     - A certificação Fortinet Certified Fundamentals (FCF) em Segurança Cibernética é gratuita e valida que você domina o conhecimento técnico e as habilidades necessárias para qualquer função de nível básico em segurança cibernética. Esta oferecerá cursos que cobrem o cenário de ameaças atual e os fundamentos da Cybersegurança: https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
-- Skills for All da Cisco tem vários cursos com conteúdos de qualidade e bem explicados para estudos tanto de redes, defesa cibernética e Ethical Hacking. Acessem em: https://skillsforall.com/catalog?category=course&subject+areas=cybersecurity
+
+- Skills for All da Cisco tem vários cursos com conteúdos de qualidade e bem explicados para estudos tanto de redes, defesa cibernética e Ethical Hacking. Acessem em: https://skillsforall.com/catalog?category=course&subject+areas=cybersecurity%2Cnetworking
+
+Ordem que eu recomendo realizar: 
+
+      1 - Networking Basics
+      2- Network Defense
+      3 - Introdution to CyberSecurity
+      4 - Endpoint Security
+      5 - Ethical Hacker ou Cyber Threat Management
+
+
 - Certificações Gratuitas da IBSEC: https://certs.ibsec.com.br/
 - Tutorial abrange os fundamentos da segurança cibernética, os tipos comuns de ataques cibernéticos e as medidas de segurança que você pode tomar para proteger seus dispositivos e dados: https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-for-beginners.
 - Cursos de Segurança Cibernética para Iniciantes na coursera: https://www.coursera.org/collections/cybersecurity-for-beginners
