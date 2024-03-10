@@ -13,9 +13,10 @@ Ordem que eu recomendo realizar:
 
       1 - Networking Basics
       2 - Network Defense
-      3 - Introdution to Cybersecurity
-      4 - Endpoint Security
-      5 - Ethical Hacker ou Cyber Threat Management
+      3 - Network Support and Security
+      4 - Introdution to Cybersecurity
+      5 - Endpoint Security
+      6 - Ethical Hacker ou Cyber Threat Management
 
 - Programa de certificação NSE da Fortinet: 
     - A certificação Fortinet Certified Fundamentals (FCF) em Segurança Cibernética é gratuita e valida que você domina o conhecimento técnico e as habilidades necessárias para qualquer função de nível básico em segurança cibernética. Esta oferecerá cursos que cobrem o cenário de ameaças atual e os fundamentos da Cybersegurança: https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
