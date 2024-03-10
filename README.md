@@ -15,8 +15,8 @@ Importante o profissional ter uma base solida de conhecimentos em Sistemas Opera
 Ordem que eu recomendo realizar: 
 
       1 - Networking Basics
-      2- Network Defense
-      3 - Introdution to CyberSecurity
+      2 - Network Defense
+      3 - Introdution to Cybersecurity
       4 - Endpoint Security
       5 - Ethical Hacker ou Cyber Threat Management
 
