@@ -71,8 +71,6 @@ Ordem que eu recomendo realizar:
 | Security Blue Team | Gratuitos e Pagos | Ofensiva e Forense | https://www.securityblue.team/training | 
 | CyberDefenders | Pagos | Defesa | https://cyberdefenders.org/ | 
 
-<img src="https://media.licdn.com/dms/image/D4D22AQGurEHQXnxBDg/feedshare-shrink_800/0/1704577154931?e=1707350400&v=beta&t=LiM8keh9tBKhNeUN-nUyqBDa6-lOUU1cUu1fM7IBxZA">
-
 ### Outros Cursos qu Recomendo, Todos Gratuitos:
  
 - Academy Attackiq - https://www.academy.attackiq.com/
