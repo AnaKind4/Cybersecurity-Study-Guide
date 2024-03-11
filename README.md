@@ -18,6 +18,8 @@ Ordem que eu recomendo realizar:
       5 - Endpoint Security
       6 - Ethical Hacker ou Cyber Threat Management
 
+A CISCO criou uma trilha com alguns cursos colocados para serem realizados em ordem, chamada Junior CyberSecurity Analyst, caso achem bacana realizar: https://skillsforall.com/career-path/cybersecurity?courseLang=en-US
+
 - Programa de certificação NSE da Fortinet: 
     - A certificação Fortinet Certified Fundamentals (FCF) em Segurança Cibernética é gratuita e valida que você domina o conhecimento técnico e as habilidades necessárias para qualquer função de nível básico em segurança cibernética. Esta oferecerá cursos que cobrem o cenário de ameaças atual e os fundamentos da Cybersegurança: https://training.fortinet.com/local/staticpage/view.php?page=fcf_cybersecurity
 
