@@ -40,6 +40,7 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
 | Try Hack Me | https://tryhackme.com/ | 
 | CyberExam | https://learn.cyberexam.io/dashboard | 
 | Blue Team Labs | https://blueteamlabs.online/ | 
+| Detection Lab | https://detectionlab.network/introduction/ |
 
 
 #### Plataformas de Treinamentos na área (Em Português):
@@ -89,8 +90,4 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
   - Perito Forense Digital: https://academiadeforensedigital.com.br/treinamentos/perito-forense-digital-gratuito/
   - DFIR Starter: https://academiadeforensedigital.com.br/treinamentos/dfir-starter/
   - Threat Intelligence Starter: https://academiadeforensedigital.com.br/treinamentos/threat-intelligence-starter/
- 
-#### Lab
-
-- Detection Lab: https://detectionlab.network/introduction/
 
