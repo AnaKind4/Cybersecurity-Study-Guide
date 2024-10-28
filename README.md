@@ -74,7 +74,7 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
 | Security Blue Team | Gratuitos e Pagos | Ofensiva e Forense | https://www.securityblue.team/training | 
 | CyberDefenders | Pagos | Defesa | https://cyberdefenders.org/ | 
 
-### Outros Cursos qu Recomendo, Todos Gratuitos:
+### Outros Cursos que Recomendo, Todos Gratuitos:
  
 - Academy Attackiq - https://www.academy.attackiq.com/
 - Cybrary - https://www.cybrary.it/
@@ -90,6 +90,11 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
   - DFIR Starter: https://academiadeforensedigital.com.br/treinamentos/dfir-starter/
   - Threat Intelligence Starter: https://academiadeforensedigital.com.br/treinamentos/threat-intelligence-starter/
 
+
+### Outros cursos Gratuitos:
+- Trilha Hackers do Bem :https://conteudo.hackersdobem.org.br/
+
+  
 ### Certificações da área:
 
 - Certificações Gratuitas da IBSEC: https://certs.ibsec.com.br/
