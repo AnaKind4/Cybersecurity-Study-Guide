@@ -35,7 +35,7 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
 | Plataforma | Link | 
 | --- | ------ |
 | Lets Defend | https://app.letsdefend.io | 
-| Hack The Box | https://www.hackthebox.com/ | 
+| Hack The Box | [https://www.hackthebox.com/](https://referral.hackthebox.com/mzBArqI) | 
 | Try Hack Me | https://tryhackme.com/ | 
 | CyberExam | https://learn.cyberexam.io/dashboard | 
 | Blue Team Labs | https://blueteamlabs.online/ | 
