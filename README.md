@@ -98,5 +98,7 @@ A CISCO criou uma trilha com alguns cursos colocados para serem realizados em or
 ### Certificações da área:
 
 - Certificações Gratuitas da IBSEC: https://certs.ibsec.com.br/
-- CompTia Security+
-- CompTia Cysa+
+- CompTia Security+ - Geral e Entry Level
+- CompTia Cysa+ - Geral e Entry Level
+- DCPT - DESEC - Para pentest/Segurança Ofensiva
+- OSCP - OFSec - Para pentest/Segurança Ofensiva
